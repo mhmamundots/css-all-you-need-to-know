@@ -1,6 +1,6 @@
 # css-all-you-need-to-know
 
-#### LECTURE 1 <br/>
+#### <strong style="color: red;">Lecture 1</strong> <br/>
 It's a complete open-source modern CSS course where you will get all source code and can see all the videos from my YouTube channel called "@mhmamundots".
 
 Let’s begin a most awaited CSS open-source course called “CSS All You Need To Know”. You can see each lecture code here.
