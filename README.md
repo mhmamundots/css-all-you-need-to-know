@@ -1,4 +1,4 @@
-# <a href="https://youtube.com/playlist?list=PL0LBKkVXMAB8dBnIBrTj6Qy4i-F4AGyH9&si=tcTIOvwLjl87zC66">css-all-you-need-to-know</a>
+# <a href="https://youtube.com/playlist?list=PL0LBKkVXMAB8dBnIBrTj6Qy4i-F4AGyH9&si=tcTIOvwLjl87zC66">CSS All You Need to Know</a>
 
 ### <a href="https://youtu.be/KWM3nkRClu8?si=BsZnd9ixNA660aCx">Lecture 1(Click Me to See This Video Again!)</a><br/>
 Welcome to the "CSS All You Need To Know" course! It's a completely free and open-source course that provides you with all the source code for each lecture. You can watch all the videos on my YouTube channel called "@mhmamundots". You can also download each lecture's code from the course repository. 
