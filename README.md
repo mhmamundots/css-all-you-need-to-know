@@ -1,6 +1,6 @@
-## <a href="https://youtube.com/playlist?list=PL0LBKkVXMAB8dBnIBrTj6Qy4i-F4AGyH9&si=tcTIOvwLjl87zC66" title="Click Me to See This Full Playlist Again!">CSS All You Need to Know</a>
+## <a href="https://youtube.com/playlist?list=PL0LBKkVXMAB8dBnIBrTj6Qy4i-F4AGyH9&si=tcTIOvwLjl87zC66" title="Click Me to See This Full Playlist Again!" target="_blank">CSS All You Need to Know</a>
 
-### <a href="https://youtu.be/KWM3nkRClu8?si=BsZnd9ixNA660aCx" title="Click Me to See This Video Again!">Lecture 1</a><br/>
+### <a href="https://youtu.be/KWM3nkRClu8?si=BsZnd9ixNA660aCx" title="Click Me to See This Video Again!" target="_blank">Lecture 1</a><br/>
 Welcome to the "CSS All You Need To Know" course! It's a completely free and open-source course that provides you with all the source code for each lecture. You can watch all the videos on my YouTube channel called "@mhmamundots". You can also download each lecture's code from the course repository. 
 
 If you're already familiar with HTML, this CSS course is perfect for you. However, if you're new to HTML, don't worry! There are many HTML playlists available on YouTube that you can learn from. If you prefer, you can request an HTML playlist in the comments on my YouTube channel, and I will try to create one for you.
