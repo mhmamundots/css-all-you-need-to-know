@@ -1,0 +1,40 @@
+/*
+1. id(#title) = 100
+2. class(.txt) or attribute([src] or [class]) or pseudo-class(:link or :hover) = 10
+3. tag/element(figure or figcaption) or pseudo-element(::before or ::after) = 1
+
+Selector Specificity (0, 0, 0)
+https://polypane.app/css-specificity-calculator/
+*/
+
+/* Background */
+body figure {
+  background-color: black;
+  padding: 20px;
+}
+figure {
+  background-color: brown;
+  padding: 20px;
+}
+
+/* Title */
+figure figcaption h2 {
+  color: aqua;
+}
+figcaption h2 {
+  color: yellow;
+}
+h2#title {
+  color: whitesmoke;
+}
+
+/* Paragraph text */
+figure figcaption p {
+  color: red;
+}
+figcaption p.txt {
+  color: gray;
+}
+#p1 {
+  color: yellow;
+}

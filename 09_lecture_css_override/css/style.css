@@ -1,0 +1,25 @@
+figure figcaption h2 {
+  color: brown;
+}
+
+figcaption h2 {
+  color: blue;
+}
+
+h2 {
+  color: black;
+}
+
+/* //////////////////////// */
+
+figure figcaption p {
+  color: gray;
+}
+
+figcaption p {
+  color: black;
+}
+
+p {
+  color: aquamarine;
+}
